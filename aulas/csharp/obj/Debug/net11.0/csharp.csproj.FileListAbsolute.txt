@@ -1,0 +1,17 @@
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\bin\Debug\net11.0\csharp.exe
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\bin\Debug\net11.0\csharp.deps.json
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\bin\Debug\net11.0\csharp.runtimeconfig.json
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\bin\Debug\net11.0\csharp.runtimeconfig.dev.json
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\bin\Debug\net11.0\csharp.dll
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\bin\Debug\net11.0\csharp.pdb
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.AssemblyInfoInputs.cache
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.AssemblyInfo.cs
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.csproj.CoreCompileInputs.cache
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.sourcelink.json
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.dll
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\refint\csharp.dll
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.pdb
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.genruntimeconfig.cache
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\ref\csharp.dll
+C:\Users\ederr\OneDrive\Documentos\pratica-linguagens\pratica-exercicios\aulas\csharp\obj\Debug\net11.0\csharp.csproj.Up2Date
