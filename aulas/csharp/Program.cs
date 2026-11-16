@@ -6,13 +6,15 @@ Console.WriteLine("2 - Média de duas notas.");
 Console.WriteLine("3 - Número par ou ímpar?");
 Console.WriteLine("4 - Qual número é maior?");
 Console.WriteLine("5 - Contagem de 1 até n.");
+Console.WriteLine("6 - Soma de 1 até n.");
+Console.WriteLine("7 - Qual é o maior número da lista?");
 
 int opcao;
 
 do
 {
     Console.Write("\nEscolha um exercício (0 pra sair): ");
-    opcao = int.Parse(Console.ReadLine());    
+    opcao = int.Parse(Console.ReadLine() ?? "0");    
 
     switch (opcao)
     {
@@ -38,6 +40,14 @@ do
 
         case 5:
             Ex05.Executar();
+            break;
+
+        case 6:
+            Ex06.Executar();
+            break;
+
+        case 7:
+            Ex07.Executar();
             break;
 
         default:
