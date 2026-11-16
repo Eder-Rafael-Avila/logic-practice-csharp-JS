@@ -5,7 +5,7 @@ public class Ex03
         Console.WriteLine("\nPAR OU ÍMPAR?\n");
 
         Console.Write("Insira um número: ");
-        int num = int.Parse(Console.ReadLine());
+        int num = int.Parse(Console.ReadLine() ?? "0");
 
         if (num % 2 == 0)
         {

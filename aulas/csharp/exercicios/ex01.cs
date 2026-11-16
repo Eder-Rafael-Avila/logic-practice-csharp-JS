@@ -10,10 +10,10 @@ public class Ex01
         Console.WriteLine("\nSOMA DE DOIS NÚMEROS\n");
 
         Console.Write("Digite um número para somar: ");
-        int num1 = int.Parse(Console.ReadLine());
+        int num1 = int.Parse(Console.ReadLine() ?? "0");
 
         Console.Write("Digite outro número para somar: ");
-        int num2 = int.Parse(Console.ReadLine());
+        int num2 = int.Parse(Console.ReadLine() ?? "0");
 
         int soma = num1 + num2;
         Console.WriteLine($"\nA soma de {num1} + {num2} é igual a: {soma}.");

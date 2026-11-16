@@ -8,6 +8,7 @@ Console.WriteLine("4 - Qual número é maior?");
 Console.WriteLine("5 - Contagem de 1 até n.");
 Console.WriteLine("6 - Soma de 1 até n.");
 Console.WriteLine("7 - Qual é o maior número da lista?");
+Console.WriteLine("8 - Contar ocorrências de uma lista.");
 
 int opcao;
 
@@ -48,6 +49,10 @@ do
 
         case 7:
             Ex07.Executar();
+            break;
+            
+        case 8:
+            Ex08.Executar();
             break;
 
         default:
